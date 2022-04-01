@@ -90,11 +90,7 @@ li {
     text-align: left;
 }
 
-h2 {
-    text-align: center;
-    background: skyblue;
-    color: tomato;
-}
+
 
 @media(max-width:460px) {
     h2 {
